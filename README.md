@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hey there , I'm Vyshnavi 👋
+
+### About Me
+I'm a BTech ECE student passionate about **embedded systems, AI, and Python projects**.  
+I enjoy building practical solutions like **smart customer onboarding systems**. I love to build things that think...and sometimes they think for themselves😉
+
+---
+
+### Currently Working On
+- EEG Brain-Controlled Devices 🧠  
+- Learning **Data Structures & Algorithms in Python** 📚
+
+---
+
+### Tools & Languages
+- **Languages:** Python 🐍 | C 💻 | Verilog ⚡ | Assembly 🔧  
+- **Tools & Platforms:** GitHub 🐙 | Arduino 🤖 | MATLAB 📊 | TensorFlow 🤯 | OpenCV 👀
+
+---
+
+### How to Reach Me
+- **LinkedIn:** [Vyshnavi](http://www.linkedin.com/in/vyshnavi-v-v-098164293)  
+- **Email:** vyshhlinked@gmail.com  
