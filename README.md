@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Vyshnavi-VV/Vyshnavi-VV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +31,23 @@ I enjoy building practical solutions like **smart customer onboarding systems**.
 ### Tools & Languages
 - **Languages:** Python 🐍 | C 💻 | Verilog ⚡ | Assembly 🔧  
 - **Tools & Platforms:** GitHub 🐙 | Arduino 🤖 | MATLAB 📊 | TensorFlow 🤯 | OpenCV 👀
+  
+---
+
+### Tech Stack
+
+<p align="left">
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" />
+  <!-- OpenCV -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" />
+</p>
 
 ---
 
