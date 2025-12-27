@@ -23,20 +23,32 @@ I enjoy building practical solutions like **smart customer onboarding systems**.
 ---
 
 ### Currently Working On
-- EEG Brain-Controlled Devices 🧠  
 - Learning **Data Structures & Algorithms in Python** 📚
 
 ---
 
 ### Tools & Languages
 - **Languages:** Python 🐍 | C 💻 | Verilog ⚡ | Assembly 🔧  
-- **Tools & Platforms:** GitHub 🐙 | Arduino 🤖 | MATLAB 📊 | Streamlit |
+
   
 ---
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,github,arduino,streamlit,numpy,pandas,matplotlib,canva,figma,blender,adobephotoshop,verilog)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,github,arduino,figma,blender)](https://skillicons.dev)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vyshnavi-VV&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vyshnavi-VV&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vyshnavi-VV&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vyshnavi-VV&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
