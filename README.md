@@ -30,13 +30,13 @@ I enjoy building practical solutions like **smart customer onboarding systems**.
 
 ### Tools & Languages
 - **Languages:** Python 🐍 | C 💻 | Verilog ⚡ | Assembly 🔧  
-- **Tools & Platforms:** GitHub 🐙 | Arduino 🤖 | MATLAB 📊 | TensorFlow 🤯 | OpenCV 👀
+- **Tools & Platforms:** GitHub 🐙 | Arduino 🤖 | MATLAB 📊 | Streamlit |
   
 ---
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,github,arduino,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,github,arduino,streamlit,numpy,pandas,matplotlib,canva,figma,blender,adobephotoshop,verilog)](https://skillicons.dev)
 
 ---
 
