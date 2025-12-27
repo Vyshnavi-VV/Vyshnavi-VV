@@ -47,11 +47,6 @@ I enjoy building practical solutions like **smart customer onboarding systems**.
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vyshnavi-VV&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### How to Reach Me
 - **LinkedIn:** [Vyshnavi](http://www.linkedin.com/in/vyshnavi-v-v-098164293)  
 - **Email:** vyshhlinked@gmail.com  
